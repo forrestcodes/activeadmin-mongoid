@@ -13,7 +13,6 @@ require 'active_admin/mongoid/document'
 require 'active_admin/mongoid/helpers/collection'
 require 'active_admin/mongoid/criteria'
 require 'active_admin/mongoid/order_clause'
-require 'active_admin/mongoid/association/relatable'
 
 require 'active_admin/mongoid/inputs/filters/check_boxes_input'
 require 'active_admin/mongoid/inputs/filters/select_input'
